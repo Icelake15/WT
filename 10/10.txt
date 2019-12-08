@@ -1,0 +1,3 @@
+create database weblab;
+use weblab;
+create table student(usnvarchar(10),name varchar(20),address varchar(20));
